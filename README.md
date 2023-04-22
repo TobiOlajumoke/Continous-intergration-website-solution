@@ -70,4 +70,6 @@ Default web root:
 ```
 /usr/share/nginx/html
 ```
-Let's gooo
+
+
+![Let's gooooo](https://i.pinimg.com/originals/ce/cd/a1/cecda1422cb7aa6252b970ef28a14b63.gif)
